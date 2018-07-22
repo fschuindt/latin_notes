@@ -11,47 +11,46 @@ The Belgians inhabit one part, the Aquitanians another, the Gauls themselves the
 + Belgian - Belga
 + Belgians - Belgae
 
-
-The Gaul is good. (Gaul a man)
+The Gaul is good. (Gaul a man)  
 Gallus bonus est.
 
-The Gaul is good. (Gaul a woman)
+The Gaul is good. (Gaul a woman)  
 Galla bona est.
 
-The woman is kind.
+The woman is kind.  
 Fēmina benevola est.
 
-Three Gauls.
+Three Gauls.  
 Trēs Gallī.
 
-The good Gauls.
+The good Gauls.  
 Gallī bonī.
 
-Gauls. (A group of womans)
+Gauls. (A group of womans)  
 Gallae.
 
-The kind Gauls. (Talking about a group of womans)
+The kind Gauls. (Talking about a group of womans)  
 Gallae benevolae.
 
-Gaul (A woman)
+Gaul (A woman)  
 Galla
 
-The Gaul inhabits. (A man)
+The Gaul inhabits. (A man)  
 Gallus incolit.
 
-The Gauls inhabit. (The tribe)
+The Gauls inhabit. (The tribe)  
 Gallī incolunt.
 
-The Gauls inhabit a part.
+The Gauls inhabit a part.  
 Gallī partem incolunt.
 
-One part.
+One part.  
 ūna pars. / ūnam partem.
 
-The Gauls inhabit one part.
+The Gauls inhabit one part.  
 Gallī ūnam partem incolunt.
 
-The Belgians inhabit one part.
+The Belgians inhabit one part.  
 Ūnam partem incolunt Belgae.
 
 >In English, a native of ancient Gaul is called a Gaul.  In Latin, Gallia is the name of the country while Gallus is the general term for one of its people.  Gallus is also the specific term for a male Gaul. 
